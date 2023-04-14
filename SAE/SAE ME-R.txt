@@ -1,0 +1,68 @@
+##Modelo Entidade-Relacionamento
+
+1- A figura a seguir possui várias elipses, onde você deverá indicar, por meio da letra correspondente a elipse correta, o que esta figura geométrica representa no DE-R e qual delas seria a representação de Composto ou Composta.
+R = A letra C corresponde a um Atributo Composto.
+
+2 - Observe na figura a seguir as elipses que têm um identificador na cor AZUL (B, D) e selecione o que elas representação por meio de suas características corretas que a  diferenciam das demais elipses existentes nesta figura.  
+R = As figuras B e D representam chaves no diagrama (DE-R).  figura B identifica somente uma chave classificada como primária.
+
+3 - O Modelo Entidade-Relacionamento (ME-R) corresponde a uma importante ferramenta no processo de modelagem em Banco de Dados.
+Assim, verifique as afirmações a seguir e selecione a opção, ou opções, que sejam correspondentes as características e resposabilidade do ME-R no Projeto de Banco de Dados.
+R = O ME-R é baseado na percepção do mundo real que representa um conjunto de objetos básicos importantes para o Projeto de BD.
+O ME-R foi desenvolvido para facilitar a atividade de desenvolvimento de projetos em BD.
+O ME-R permite a especificação de um esquema de negócio, onde tal esquema representa a estrutura lógica geral do BD.
+
+4 - A figura geométrica do RETÂNGULO, no Diagrama de Entidade e Relacionamento (DE-R), representa os relacionamentos existentes entre os objetos importantes em um Projeto do Banco de Dados que está sendo desenvolvido para uma solução computacional adequada às necessidades de seu(s) usuário(s).
+R = FALSO.
+
+5 - (Dataprev: Infraestrutura e Aplicações)
+Selecione uma opção correta. É correto afirmar que, na modelagem entidade-relacionamento, haverá sempre uma entidade fraca quando:
+R = Houver um relacionamento identificador. 
+
+6 - Não existem ferramentas computacionais que supram todas as necessidades da Engenharia de Software a partir da análise de requisitos e da modelagem até a programação computacional realmente e os testes, sendo então essencial o Engenheiro de Software para suprir estas necessidades.
+R = FALSO.
+
+7 - Observe a ilustração da Arquitetura de Banco de Dados abaixo e selecione a(s) opção(ões) correta(s) na identificação dos níveis diferentes desta arquitetura.
+Relacione os níveis A, B ou C com seus respectivos nomes ou classificações.
+R = Nível B corresponde ao Nível Lógico. Nível C corresponde ao Nível Interno.
+
+8 - Computer-Aided Software Engineering corresponde a um tipo de arquitetura computacional que constrói computadores com recursos de suporte para a construção de softwares.
+R = FALSO.
+
+9 - Observe a ilustração da Arquitetura em Banco de Dados (BD) a seguir e selecione a opção mais correta com o Nível C indicado nesta ilustração.
+R = Descreve como os dados estão armazenados, onde complexas estruturas são descritas em detalhes. 
+
+10 - Qual é a principal ferramenta no fornecimento de informações sobre a abstração realizada na parte de interesse específico do mundo real para elaboração de um Banco de Dados coerente a um problema computacional a ser resolvido.
+Complete o nome deste recurso relevante na área de Banco de Dados respeitando a correta sintaxe e semântica da língua portuguesa no singular e sem usar nenhum espaço em branco.
+R = Modelagem de Dados.
+
+11 - Preencha a afirmação a seguir com a letra que indica qual representação está correta com tal afirmação abaixo.
+Não use nenhum espaço em branco em sua resposta, caso contrário ela será considerada incorreta.
+R = E.
+
+12 - Selecione a opção, ou opções, que NÃO corresponde(m) a representação de uma Entidade no ME-R.
+R = Pode existir em um relacionamento para descreve-lo melhor.       Deve possuir a cardinalidade correspondente em sua descrição. 
+
+13 - O Modelo de Dados em Banco de Dados consiste de um conjunto de conceitos utilizados para descrever a estrutura do Banco de Dados.
+R = VERDADEIRO.
+
+14 - Análise a representação da Arquitetura de Banco de dados a seguir e selecione a opção ou opções mais coerentes com o Nível B indicado nesta representação.
+R = No Nível B o BD é descrito totalmente em termos de estruturas relativamente simples.       Descreve quais dados estão armazenados de fato e as relações existentes entre eles.
+
+15 - A utilização de Ferramentas CASE no desenvolvimento de projetos de Engenharia de Software proporciona várias vantagens em sua elaboração.
+Complete a expressão a seguir identificando qual característica vantajosa estaria sendo indicada na frase abaixo. Respeite as regras de sintática e semântica se quiser que sua resposta possa estar correta.
+R = Reutilização.
+
+16 - A UNIFORMIZAÇÃO poderia ser indicada como uma característica positiva (vantagem) no emprego de Ferramentas CASE na elaboração de softwares (sistemas computacionais) pela Engenharia de Software.
+R = VERDADEIRO.
+
+17 - Selecione a opção ou as opções que indiquem DESVANTAGENS importantes no uso de Ferramentas CASE nos processos de construção de sistemas computacionais pela Engenharia de Software.
+R = Elevado custo desse tipo de ferramenta e em seu uso. Limitações na flexibilidade da documentação gerada pela ferramenta.
+
+18 - Complete a afirmação a seguir com o nome deste recurso representado no DE-R, sem usar espaço em branco e mantendo a correta concordância exigida na língua portuguesa para que sua resposta esteja correta.
+Frase:	A figura geomética da elipse representa os atributos no Diagrama de Entidade e Relacionamento (DE-R).
+R = atributos.
+
+19 - No DE-R qual é a elipse que representa um atributo derivado. Indique somente a letra da elipse correta: F.
+
+20 - 

@@ -1,0 +1,155 @@
+##########ARQUIVOS##############
+
+1 - Esse recurso computacional, usado na manipulação de arquivos de dados, é formado por uma coleção de pares, associando um valor da chave de acesso a um endereço físico no arquivo, sendo sempre específico a uma chave de acesso específica. 
+Analise a afirmação acima e complete a frase abaixo de maneira correta e sem nenhum espaço em branco. 
+Atente a grafia correta para completar esta afirmação de maneira adequada a língua portuguesa.
+R: Os índices exigem uma área de extensão ao seu uso em arquivos de dados.
+
+2 - Registros corresponde a um conjunto de unidades de informação logicamente relacionadas e armazenadas em arquivo.
+
+3 - Entre as opções abaixo selecione qual dispositivo de armazenamento de dados é mais rápido na recuperação de dados entre os indicados (disponíveis nesta questão).
+R: Cache
+
+4 - Analise os aspectos abaixo e indique qual o tipo de arquivo coerente a estes aspectos.
+- Registros dispostos respeitando a chave de ordenação;
+- Acesso aos registros são feitos sequencialmente;
+- Aperfeiçoa o armazenamento de registros dispostos aleatoriamente no arquivo de dados.
+R: Arquivo Sequencial
+
+5 - Qual tipo de arquivo é indicado para acesso de registros usando argumentos que coincidam com a chave de ordenação ou em atualizações por lotes usando arquivos batch.
+R: Arquivos Seguenciais
+
+6 - O armazenamento de dados na memória do computador promove a maior agilidade em sua manipulação e apresentação, mas pode resultar também em sua perda, pois tais dados não estão armazenados de maneira segura e permanente.
+Por isso, é aconselhável o armazenamento em qual tipo de dispositivo que mantem estes dados disponíveis, mesmo que uma falta de energia venha a acontecer.
+Selecione o nome da classificação destes dispositivos de armazenamento.
+R: Secundários
+
+7 - Dentre as opções selecione somente os dispositivos que pertencem a classificação de Memória Secundária.
+R: Disco Magnético(HD), Pen Drive
+
+8 - Selecione o tipo de arquivo que possui perda de flexibilidade na realização de operações de modificação dos dados que estão armazenados em arquivo.
+R: Arquivos Sequênciais
+
+9 - A maior velocidade de acesso e eficiência na recuperação de dados está relacionada a qual classificação dos dispositos de armazenamento de dados computacionais.
+R: Primaria
+
+10 - Indique qual ou quais são os aspectos importantes para a decisão de qual tipo de armazenamento será adotado para guardar os dados manipulados por sistemas computacionais.
+R: Capacidade de Armazenamento, Velocidade de operação sobre os dados armazenados, Custo ou valor financeiro para aquisição e manutenção do recurso.
+
+11 - Os Arquivos Diretos não são indicados para uso em aplicações com atualizações arbitrárias, sendo mais adequado para atualizações aleatórias.
+R: FALSO
+
+12 -Qual tipo de arquivo de dados utiliza a chave do próprio registro, ou uma função, para calcular o endereço do registro a partir do argumento de pesquisa fornecida aos seus usuários.
+R: Arquivos Diretos
+
+13 - Indique qual ou quais são as características relacionadas aos Arquivos Diretos usados no armazenamento de dados em sistemas computacionais.
+R: Instala os registros em endereços determinados e com base na sua chave primária. Não utiliza uma estrutura de índice.
+
+14 - Analise a afirmação coerente aos dispositivos para armazenamento seguro de dados, sendo geralmente utilizada como cópia de segurança em sistemas computacionais (backup).
+R: As fitas magnéticas são os dispositivos mais baratos e lentos porque precisam ser acessados sequencialmente a partir do início.
+
+15 - O grande volume de acesso aleatório sobre os arquivos sequencias exige o uso de uma estrutura de acesso associada ao arquivo de dados para torná-lo mais eficiente. Qual seria o tipo de arquivo de dados que utliza esta estrutura associada.
+R: Arquivos Sequenciais Indexados
+
+16 - Selecione as opções relacionadas ao armazenmento em ARQUIVO de dados que sejam adequadas as características deste tipo de armazenamento.
+R: Conjunto de registros armazenados em um dispositivo de memória secundária, Os registros são armazenados de maneira organizada para serem mais eficientes ao seu uso.
+
+17 - Analise a afirmativa em relação aos Sistemas Gerenciadores de Banco de Dados (SGBD) e indique se ela está correta. A estrutura de ARQUIVOS DE DADOS é armazenada no catálogo do SGBD, separadamente do programa (ou programas) responsável pelo acesso aos dados.
+R: VERDADEIRO
+
+18 - Um REGISTRO é formado por uma sequência de campos ou atributos que será armazenado em um arquivo de dados.
+R: VERDADEIRO
+
+19 - Complete com a expressão correta e EXATA a identificação deste tipo de chave comum na operação computacional que trabalha com arquivos de dados.Não use espaço em branco em sua resposta e análise a frase para preenche-la corretamente ao qual esta expressão estará completando com a sintaxe e semântica corretas, além da coerência lógica que a frase solicita o seu conhecimento sobre este conteúdo de estudo.
+R:Chave de ordenação (ordem) é a chave primária usada para estabelecer a sequência na qual devem ser dispostos os registros em um arquivo.
+
+20 - Quanto menor for o valor da classificação dos tipos de memória para armazenamento de dados, maior é o seu custo financeiro, ou seja, maior será o investimento financeiro para sua aquisição.
+R: VERDADEIRO
+
+
+##########SGBD##############
+
+1 - Complete Corretamente
+R: O conceito de abstração está associado às características de se observar somente os aspectos de interesse, sem se preocupar com maiores detalhes envolvidos.
+
+2 - (Dataprev: Analista de Processamento) O SGBD é constituído por um conjunto de dados inter-relacionados e um conjunto de programas para acessá-los. Sua característica principal é prover uma maneira adequada de recuperação e armazenamento de dados no BD. Dentre as características do SGBD, estão:
+A=gerenciar pequenos volumes de dados
+B=facilitar a eliminação de redundância e inconsistência de dados
+C=facilitar o armazenamento dos e o acesso aos dados
+D=garantir o acesso a vários usuários ao mesmo tempo.
+Selecione a opção correta.
+R: B, C e D, apenas.
+
+3 - Um arquivo especial de dados armazenado pelo Sistema de Banco de Dados, também chamado de Dicionário de Dados, corresponde ao qual recurso reletante aos SGBD. Complete a afirmação a seguir sem usar nenhum espaço em branco.
+Frase:	A expressão metadados corresponde ao Dicionário de Dados em um Sistema de Banco de Dados.
+R: metadado.
+
+4 - A implementação de Sistemas Gerenciadores de Banco de Dados (SGBD) tem, dentre seus objetivos, solucionar um problema que ocorre quando informações com conteúdos diferentes são armazenadas em arquivos diferentes. Este problema é conhecido por:
+R: Inconsistência de dados.
+
+5 - Qual perfil de usuário é responsável por monitorar um Sistema de Banco de Dados (SBD)?
+R: Administrador do Banco de Dados.
+
+6 - Um arranjo aleatório de dados NÃO é considerado um Banco de Dados.
+R: Verdadeiro
+
+7 - Dentre os principais objetivos de um Sistema de Banco de Dados, selecione a opção que completa o espaço vazio da afirmação a seguir de maneira mais correta.
+Oferecer uma visão _________ aos usuários, onde os detalhes referentes a forma como estes dados estão armazenados e mantidos não interessa aos usuários finais, mas a disponibilidade eficiente dos dados.
+R: abstrata dos dados.
+
+8 - O Administrador de Banco de Dados (DBA) é o profissional responsável por qual ou quais atividades  indicadas sobre sistemas de bancos de dados.
+R: Configurar o Banco de Dados (BD), A instalação e atualizações necessárias ao Banco de Dados, Gerenciar o Banco de dados.
+
+9 - Database Administrator (DBA) corresponde a um perfil de usuário importante na área de Banco de Dados.
+R: VERDADEIRO.
+
+10 - No contexto de abstração de dados um banco de dados pode ser visto como.
+R: Observando somente os aspectos de interesse, sem se preocupar com maiores detalhes técnicos envolvidos, em se considerar a forma como os dados estão realmente armazenados fisicamente.
+
+11 - Análise a representação da arquitetura de banco de dados abaixo e selecione a opção ou opções mais coerentes com o Nível A indicado nesta representação.
+R: Descreve parte do BD por meio de estruturas mais simples que no Nível B,  Alguma complexidade é representada neste Nível A, conforme o tamanho do BD.
+
+12 -  A tecnologia dos SGBDs está sempre evoluindo, sendo um recurso fundamental a sociedade atual.
+Por isso, sempre que existir necessidade de armazenar dados e informações em recursos computacionais deve ser utilizado um SGBD.
+R: FALSO.
+
+13 - Observe as opções abaixo e indique qual ou quais correspondem as restrições de integridade que os SGBDs devem fornecer recursos adequados para implementação e controle coerente para a respresentação do "negócio" existente no mundo real.
+R:  A unicidade dos resgistros (chave primária). Impossibilidade do dado não ser informado. Identificação do tipo de dado a ser armazenado em cada atributo.
+
+14 - Observe a imagem a seguir e indique o que estaria sendo representado pelas letras B e C em vermelho na terminologia de banco de dados mais comum.
+R: B = Atributo e C = Registro
+
+15 - O cuidado com as Restrições de Integridade no Banco de Dados deve ser mantido de maneira coerente com as representações que ele estará fazendo do mundo real. Caso contrário, este banco não atenderá as exigências mínimas para tal representação.
+Consciente da importância destas restrições, selecione qual a definição mais correta para elas serem mantidas nos SGBDs.
+R: São regras associadas aos dados respeitando a coerência de sua representação do mundo real.
+
+16 - Selecione qual ou quais são as responsabilidades de um Projetista de Banco de Dados relacionadas as suas atividades junto a um Sistema Gerenciador de Banco de Dados.
+R: É responsável pela identificação dos dados e a elaboração de estruturas apropriadas para armazena-los, Compreender os requisitos necessários aos diferentes usuários do banco de dados antes de sua implementação.
+
+17 - (Dataprev: Gestão de TIC) As instâncias são formadas quando um dado é guardado no BD por um determinado tempo, sendo alteradas toda vez que uma modificação na base de dados é realizada. O SGBD garante que todas as instâncias satisfaçam ao esquema do BD, respeitando sua estrutura e suas restrições. A arquitetura de um SGBD tem como principal objetivo separar aplicações do usuário dos dados físicos em três níveis de esquemas.
+Assinale a alternativa que os representa.
+R:  Nível Externo, Nível Conceitual e Nível Interno.
+
+18 - A existência de um Banco de Dados está condicionada ao emprego adequado de recursos computacionais.
+R: FALSO.
+
+19 - Indique qual ou quais características estão relacionadas ao uso do SGBD sobre os aspectos positivos relacionados a Redundância dos dados armazenados em suas estruturas.
+R: O espaço de armazenamento é MENOR sem a redundância dos dados, A redundância é facilitadora na geração da inconsistência dos dados armazenados em um SBD.
+
+20 - Qual perfil de usuário é responsável por monitorar um Sistema de Banco de Dados (SBD)?
+R: Administrador do Banco de Dados.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
