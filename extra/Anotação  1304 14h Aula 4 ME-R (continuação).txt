@@ -1,0 +1,10 @@
+Anotação - 13/04 - 14h Aula 4 - ME-R (continuação)
+
+- nenhuma das soluções apresentadas estava correta para a resolução do enunciado proposto.
+- não há necessidade da entidade AGENDA.
+- apenas parentesco primário descrito no enunciado (atributo obrigatório).
+- endereço como atributo composto.
+- pessoa com atributos nome, nascimento, endereço, telefone e parentesco (se não há parentesco primário, não há possibilidade de cadastro no sistema)
+- telefone como atributo multivalorado.
+- "uma entidade só resolve o problema" (36:28)
+
